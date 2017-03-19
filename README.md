@@ -1,4 +1,4 @@
-Object relational mapping (ORM) from C# classes to XML and back.
+Object mapping from C# classes to XML and back.
 
 Create simple C# classes (much like JSON) who's objects can be converted to XML to save records or application settings. 
 Later, the object can be re-hydrate from the XML and used like normal.
